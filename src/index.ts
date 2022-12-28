@@ -1,5 +1,7 @@
 import './style.scss';
 
-const x: string = 'test112';
+const appComponent = document.querySelector('#app') as HTMLElement;
 
-console.log(x);
+appComponent.textContent = 'test';
+
+console.log('lint warning');

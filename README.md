@@ -1,2 +1,3 @@
 # TS-project-template
-project template, TS, redux, SCSS, Jest, ESLint, prettier, webpack
+
+project template, TS, SCSS, Jest, ESLint, prettier, webpack
